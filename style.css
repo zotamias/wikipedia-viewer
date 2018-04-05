@@ -1,0 +1,39 @@
+.container{
+  text-align: center;
+}
+
+button{
+  margin: 20px 15px;
+}
+
+h1{
+  padding: 25px;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 65px;
+}
+
+/* Search result  */
+#result{
+  padding: 10px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Search results- layout */
+.btn-result{
+  margin: 45px;
+  padding: 20px;
+  border-radius: 9px;
+  border-color: lightgrey;
+  border-style: solid;
+}
+
+/* Footer  */
+footer{
+  margin: auto;
+  position: relative;
+  text-align: center;
+  height: 2rem;
+  color: #c32c2c;
+}
+
