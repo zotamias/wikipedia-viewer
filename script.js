@@ -32,8 +32,8 @@ $(document).ready(function(){
   });//end of click function
   
   
-  /*action when pressing the enter key
-  for search results */ $("#searchTerm").keypress(function(event) {
+  /*action when pressing the enter key for search results */ 
+  $("#searchTerm").keypress(function(event) {
     if(event.which===13) {
         $("#search").click();
     }
