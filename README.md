@@ -8,6 +8,6 @@ Built using the MediaWiki action API.
 
 To check out this page live, here are the links:
 
-https://zotamias.github.io/wikipedia-viewer/
+* https://zotamias.github.io/wikipedia-viewer/
 
-https://codepen.io/zotamias/full/KXzZyQ/
+*  https://codepen.io/zotamias/full/KXzZyQ/
